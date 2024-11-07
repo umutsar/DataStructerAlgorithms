@@ -13,3 +13,5 @@ void insertionSort(int dizi[], int size)
         dizi[j + 1] = key;
     }
 }
+
+// Usage: insertionSort(dizi, size);
