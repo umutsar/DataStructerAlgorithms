@@ -15,3 +15,5 @@ void selectionSort(int dizi[], int size)
         dizi[minIndex] = temp;
     }
 }
+
+// Usage: selectionSort(dizi, size);
